@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @tobichls
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Comp Sci & AI at Uni
-- 💞️ Looking to collaborate on anything fun
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/tobi-fakoya)
+## Info
+
+- 2nd year Comp Sci and AI student at Loughborough
+- Connect with me on [Linkedin](https://www.linkedin.com/in/tobi-fakoya)
 
 ## GitHub Stats
 
