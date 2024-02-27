@@ -1,6 +1,6 @@
 ## Info
 
-- 2nd year Comp Sci and AI student at Loughborough
+- 2nd year Computer Science and AI student at Loughborough Uni
 - Connect with me on [Linkedin](https://www.linkedin.com/in/tobi-fakoya)
 
 ## GitHub Stats
