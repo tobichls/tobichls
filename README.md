@@ -6,9 +6,9 @@
 
 ## GitHub Stats
 
-- Total Contributions: ![Total Contributions](https://img.shields.io/github/contributions/<tobichls>/<repository>)
-- Current Streak: ![Current Streak](https://img.shields.io/github/commit-activity/4w/<tobichls>/<repository>)
-- Longest Streak: ![Longest Streak](https://img.shields.io/github/commit-activity/y/<tobichls>/<repository>)
+- Total Contributions: ![Total Contributions](https://img.shields.io/github/contributions/<tobichls>)
+- Current Streak: ![Current Streak](https://img.shields.io/github/commit-activity/4w/<tobichls>)
+- Longest Streak: ![Longest Streak](https://img.shields.io/github/commit-activity/y/<tobichls>)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<tobichls>&show_icons=true&theme=radical)
 
