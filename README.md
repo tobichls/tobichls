@@ -4,7 +4,7 @@
 - Connect with me on:
 <!-- LinkedIn Button -->
 <a href="https://www.linkedin.com/in/tobi-fakoya" target="_blank">
-  <button class="linkedin-button">
+  <button>
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </button>
 </a>
