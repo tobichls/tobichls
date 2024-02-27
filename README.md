@@ -1,4 +1,4 @@
-# 🏃‍♂️ Hi, I'm Tobi Fakoya
+# 👋 Hi, I'm Tobi Fakoya
 
 **`2nd Year CompSci and AI student at Loughborough Uni`**
 
