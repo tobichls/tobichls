@@ -3,13 +3,9 @@
 **`2nd Year CompSci and AI student at Loughborough Uni`**
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/tobi-fakoya" target="_blank">
-  <button>
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </button>
-</a>
-
-### GitHub Stats
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/tobi-fakoya#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/tobi-fakoya#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 <div align="center">
   <a href="#">
