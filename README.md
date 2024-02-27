@@ -1,4 +1,4 @@
-## Info
+## 👋 Hello there!
 
 - 2nd year Computer Science and AI student at Loughborough Uni
 - Connect with me on [Linkedin](https://www.linkedin.com/in/tobi-fakoya)
