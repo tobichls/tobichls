@@ -7,6 +7,10 @@
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/tobi-fakoya#gh-dark-mode-only)
 &nbsp;&nbsp;
 
+#
+
+### 📊 Stats
+
 <div align="center">
   <a href="#">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tobichls&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true&hide=commits&hide_rank=true&hide_title=false"/>
