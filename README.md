@@ -1,7 +1,13 @@
 ## 👋 Hello there!
 
 - 2nd year Computer Science and AI student at Loughborough Uni
-- Connect with me on [Linkedin](https://www.linkedin.com/in/tobi-fakoya)
+- Connect with me on:
+<!-- LinkedIn Button -->
+<a href="https://www.linkedin.com/in/tobi-fakoya">
+  <button class="linkedin-button">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </button>
+</a>
 
 ## GitHub Stats
 
